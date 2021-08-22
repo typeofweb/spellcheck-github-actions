@@ -1,4 +1,4 @@
-name: "GitHub Spellcheck Action"
+name: "GitHub Spellcheck Action - Polish"
 description: 'A Github Action that spell checks Python, Markdown, and Text files using PySpelling'
 author: rojopolis
 inputs:
