@@ -1,5 +1,5 @@
 # default are English and German
-ARG SPELLCHECK_LANGS="en,de"
+ARG SPELLCHECK_LANGS="en,pl"
 
 # Builder stage: configure env vars, labels, add plain files, install common packages
 FROM python:3.9.6-slim as spellcheck-builder
