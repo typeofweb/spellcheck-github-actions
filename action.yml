@@ -20,5 +20,3 @@ branding:
 runs:
   using: docker
   image: 'Dockerfile'
-#   using: docker
-#   image: 'docker://jonasbn/github-action-spellcheck:latest'
